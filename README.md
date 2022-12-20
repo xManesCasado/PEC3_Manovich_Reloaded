@@ -98,7 +98,9 @@ Como curiosidad, uno de los 16 canales representados en el video, reproduce el v
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * Manovich, Lev. (2017). **Comprender los medios híbridos**. Barcelona: Editorial UOC.
 * FutureMusic.es, Cubase, la historia del gran DAW de Steinberg (2014).[https://www.futuremusic-es.com/steinberg-cumple-30-anos-breve-historia-de-cubase/](https://www.futuremusic-es.com/steinberg-cumple-30-anos-breve-historia-de-cubase/)
+* Instituto de Bajo, Cubase, un Software revolucionario (2015). https://bajissimo.com/cubase-un-software-revolucionario/
 * Biografías y vidas, Bob Dylan (2004). https://www.biografiasyvidas.com/biografia/d/dylan.htm
+* Wikipedia, Like a Rolling Stone (2002). https://en.wikipedia.org/wiki/Like_a_Rolling_Stone
 
 
 ----
