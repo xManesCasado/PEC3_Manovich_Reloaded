@@ -74,6 +74,10 @@ En 1965 sacó su disco titulado **Highway 61 Revisited** que incluye el tema "Li
 
 ![bob dylan](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-199625-GettyImages-74269254.jpg)
 
+Unos cincuenta años más tarde, Bob Dylan lanza en 2013, su video oficial interactivo de la canción "Like a Rolling Stone". Una idea muy innovadora que rompe con el concepto de lo que un "single pop" debería contener. Desarrollado por la compañía Interlude junto a Sony Legacy, así es como nos define ésta última el proyecto en su página web.
+
+>"El videoclip interactivo “Like A Rolling Stone” de Bob Dylan ofrece una plataforma tecnológica patentada, creada por la compañía de media digital Interlude, que permite al espectador jugar un papel activo en la historia del videoclip. La experiencia comienza cuando los usuarios hacen click en PLAY y tienen la posibilidad de navegar por 16 “canales de TV” diferentes dentro del vídeo en tiempo real. Estos canales contienen formatos de la televisión Americana en la que, sin importar el canal que se sintonice, se sincroniza el movimiento de los labios de los presentadores y actores que aparecen en la pantalla con la letra de la canción “Like A Rolling Stone.” No hay dos personas que vean el vídeo de la misma manera dos veces. Este vídeo interactivo también puede verse en iPhones y iPads, y puede compartirse fácilmente a través de las plataformas de redes sociales." SonyMusic.es
+
 
 
 ### Referencias y Bibliografía
