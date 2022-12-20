@@ -78,6 +78,16 @@ Unos cincuenta años más tarde, Bob Dylan lanza en 2013, su video oficial inter
 
 >"El videoclip interactivo “Like A Rolling Stone” de Bob Dylan ofrece una plataforma tecnológica patentada, creada por la compañía de media digital Interlude, que permite al espectador jugar un papel activo en la historia del videoclip. La experiencia comienza cuando los usuarios hacen click en PLAY y tienen la posibilidad de navegar por 16 “canales de TV” diferentes dentro del vídeo en tiempo real. Estos canales contienen formatos de la televisión Americana en la que, sin importar el canal que se sintonice, se sincroniza el movimiento de los labios de los presentadores y actores que aparecen en la pantalla con la letra de la canción “Like A Rolling Stone.” No hay dos personas que vean el vídeo de la misma manera dos veces. Este vídeo interactivo también puede verse en iPhones y iPads, y puede compartirse fácilmente a través de las plataformas de redes sociales." SonyMusic.es
 
+Este es un claro ejemplo de hibridación que da lugar a un resultado muy divertido e innovador. En la época en que Bob Dylan sacó esta canción, la programación televisiva con los productos musicales eran cosas totalmente dispares. Era difícil conceber como podrían relacionarse y fueron creciendo de maneras separadas.
+
+Como he mencionado anteriormente, este video rompe completamente con las ideas preconcebidas sobre lo que es un video musical. Se consigue fusionar el medio más usado de nuestra sociedad, la televisión, representando fielmente la **programación real** americana, con un videoclip musical, en este caso de Bob Dylan y fusionarlos en un resultado híbrido en la que nosotros, como espetadores, ya no distinguimos un medio del otro, han quedado integrados en un resultado conjunto.
+
+En la "televisión" nosotros podemos cambiar el volumen y cambiar de canal. Emula de manera muy realista cada uno de los canales más conocidos de la televisión americana. Haciendo que nosotros como espectadores no nos demos cuenta de lo que está pasando (si no prestamos especial atención) hasta que no subimos el volumen.
+Como curiosidad, uno de los 16 canales representados en el video, reproduce el videoclip original de la canción de Bob Dylan.
+
+
+
+
 
 
 ### Referencias y Bibliografía
