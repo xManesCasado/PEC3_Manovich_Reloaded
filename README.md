@@ -87,6 +87,7 @@ Como curiosidad, uno de los 16 canales representados en el video, reproduce el v
 
 [Este es el video Bob Dylan "Like a Rolling Stone](http://video.bobdylan.com/)
 
+![boby](http://www.misgafasdepasta.com/wp-content/uploads/2013/11/bob-dylan-like-a-rolling-stone01-480x249.png)
 
 
 
