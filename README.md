@@ -8,7 +8,7 @@ Autor: Xavier Mañes Casado
 
 Fecha: 18/12/2022
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+
 
 
 
@@ -16,7 +16,7 @@ Fecha: 18/12/2022
 
 
 Nos situamos a finales del siglo pasado, nos encontramos en uno de los puntos de inflexión más grandes que ha vivido el ser humano. Se empieza a gestar un cambio total de paradigma en la cultura de la imagen en movimiento. Los medios comunicativos que conocíamos hasta la fecha (películas, fotografía, gráficos...) empiezan a ser combinados de todas las manera imaginables. 
-Entrando en el nuevo siglo, el XXI, los medios como los conocíamos empiezan a perder importancia y dan lugar a los 
+Entrando en el nuevo siglo, el XXI, los medios como los conocíamos empiezan a perder importancia y dan lugar a los **MEDIOS HÍBRIDOS**.
 
 
 ## Caso 1: Bob Dylan "Like a Rolling Stone"
