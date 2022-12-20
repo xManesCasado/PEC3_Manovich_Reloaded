@@ -96,6 +96,7 @@ Como curiosidad, uno de los 16 canales representados en el video, reproduce el v
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* FutureMusic.es, Cubase, la historia del gran DAW de Steinberg (2014).[https://www.futuremusic-es.com/steinberg-cumple-30-anos-breve-historia-de-cubase/](https://www.futuremusic-es.com/steinberg-cumple-30-anos-breve-historia-de-cubase/)
 
 
 ----
