@@ -43,7 +43,7 @@ A principios de los años 70, aparecen en el mundo del audio los primeros **mult
 
 Veinte años más tarde, una compañía alemana, Steinberg, desarrolla a finales de los 80 un secuenciador y editor MIDI (Musical Instrument Digital Interface) llamado Cubase orientado al desarrollo de música. En un primer momento no ofrecía demasiadas prestaciones pero con el paso de los años fue evolucionando obteniendo un programa cada vez más completo.
 
-Por otro lado, a finales de la década de los 90, simultáneamente a la gran evolución de los medios de la imagen en movimiento, empieza a ser presente también un desarrollo de las prestaciones en el mundo del audio, empezamos a ver fusiones en varios campos que permiten llegar a productos muy innovadores. No quedando exento de ellas los programas de desarrollo musical como Cubase.
+Por otro lado, a finales de la década de los 90, simultáneamente a la gran evolución de los medios de la imagen en movimiento, empieza a estar presente también un desarrollo de las prestaciones en el mundo del audio, empezamos a ver fusiones en varios campos que permiten llegar a productos muy innovadores. No quedando exento de ellas los programas de desarrollo musical como Cubase.
 
 ![cubase](https://www.futuremusic-es.com/wp-content/uploads/2014/05/Steinberg_Cubase_Atari_1990_750px.jpg)
 
