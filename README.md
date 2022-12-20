@@ -85,7 +85,7 @@ Como he mencionado anteriormente, este video rompe completamente con las ideas p
 En la "televisión" representada en el video, nosotros podemos regular el volumen y cambiar de canal. Emula de manera muy realista cada uno de los canales más conocidos de la televisión americana, haciendo que nosotros como espectadores no nos demos cuenta de lo que está pasando (si no prestamos especial atención) hasta que no subimos el volumen. 
 Como curiosidad, uno de los 16 canales representados en el video, reproduce el videoclip original de la canción de Bob Dylan.
 
-[Este es el video Bob Dylan "Like a Rolling Stone](http://video.bobdylan.com/)
+[Este es el video Bob Dylan "Like a Rolling Stone"](http://video.bobdylan.com/)
 
 ![boby](http://www.misgafasdepasta.com/wp-content/uploads/2013/11/bob-dylan-like-a-rolling-stone01-480x249.png)
 
