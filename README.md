@@ -80,10 +80,12 @@ Unos cincuenta años más tarde, Bob Dylan lanza en 2013, su video oficial inter
 
 Este es un claro ejemplo de hibridación que da lugar a un resultado muy divertido e innovador. En la época en que Bob Dylan sacó esta canción, la programación televisiva con los productos musicales eran cosas totalmente dispares. Era difícil conceber como podrían relacionarse y fueron creciendo de maneras separadas.
 
-Como he mencionado anteriormente, este video rompe completamente con las ideas preconcebidas sobre lo que es un video musical. Se consigue fusionar el medio más usado de nuestra sociedad, la televisión, representando fielmente la **programación real** americana, con un videoclip musical, en este caso de Bob Dylan y fusionarlos en un resultado híbrido en la que nosotros, como espetadores, ya no distinguimos un medio del otro, han quedado integrados en un resultado conjunto.
+Como he mencionado anteriormente, este video rompe completamente con las ideas preconcebidas sobre lo que es un video musical. Se consigue fusionar el medio más usado de nuestra sociedad, la televisión, representando fielmente la **programación real** americana, con un videoclip musical, en este caso de Bob Dylan y convergerlos en un resultado híbrido en el que nosotros, como espetadores, ya no distinguimos un medio del otro, pues han quedado integrados en un resultado conjunto.
 
-En la "televisión" nosotros podemos cambiar el volumen y cambiar de canal. Emula de manera muy realista cada uno de los canales más conocidos de la televisión americana. Haciendo que nosotros como espectadores no nos demos cuenta de lo que está pasando (si no prestamos especial atención) hasta que no subimos el volumen.
+En la "televisión" representada en el video, nosotros podemos regular el volumen y cambiar de canal. Emula de manera muy realista cada uno de los canales más conocidos de la televisión americana, haciendo que nosotros como espectadores no nos demos cuenta de lo que está pasando (si no prestamos especial atención) hasta que no subimos el volumen. 
 Como curiosidad, uno de los 16 canales representados en el video, reproduce el videoclip original de la canción de Bob Dylan.
+
+[Este es el video Bob Dylan "Like a Rolling Stone](http://video.bobdylan.com/)
 
 
 
