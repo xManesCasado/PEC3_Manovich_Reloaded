@@ -68,6 +68,8 @@ Por último, tenemos otro caso de hibridación de Cubase que también supone una
 
 ## Caso 2: Bob Dylan "Like a Rolling Stone" 
 
+Bob Dylan fue y sigue siendo un referente de la industria musical. En la década de 1960 llego a crear un estilo característico y propio recuperando la música folk, añadiendole letras cargadas de gran simbolismo y reivindicaciones que hicieron que no solo se convirtiera en un ídolo musical sino en un símbolo de la juventud contestaria de los Estados Unidos. Canciones como "Maters of war o "Talkin' World War III blues" entre otras.
+
 
 
 ### Referencias y Bibliografía
