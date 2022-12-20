@@ -22,6 +22,16 @@ Los medios híbridos en cambio, suponen el mix de varios elementos que mediante 
 
 **Con la entrada al siglo XXI, ha quedado evidenciado que nos situamos de lleno en la cultura del remix. Todas las areas de nuestra sociedad se rigen por una ley de constante mezcla evolutiva.**
 
+Aunque esto es claramente visible en los medios de imagen en movimiento, segun Manovich la esencia de la cultura del remix radica en otro aspecto, él lo define como **remix profundo** y lo define de este modo.
+
+>"Lo que se remixa hoy no es sólo el contenido de los diferentes
+medios, sino fundamentalmente sus técnicas, sus métodos de trabajo y las formas de
+representación y de expresión. Unidos por el entorno común del software, el cine, la animación, la
+animación por computadora, los efectos especiales, el diseño gráfico y las tipografías han llegado a
+formar un nuevo metamedium (metamedio). Una obra producida en este nuevo metamedio puede
+usar todas las técnicas, o cualquier subconjunto de ellas, cuando antes, pertenecían
+exclusivamente a cada uno de esos medios." Lev Manovich, Comprender los medios híbridos.
+
 
 
 
